@@ -17,8 +17,8 @@
 
 ## 👥 Authors and Acknowledgments
 
-- **Devansh Sharma** - DevanshSharmaCodes (https://github.com/DevanshSharmaCodes)
+- **Himanshu Nagwanshi** - Himanshunagwanshi(https://github.com/Himanshunagwanshi)
 - **Collaborators Names:**
-  - **Himanshu Nagwanshi** - Himanshunagwanshi(https://github.com/Himanshunagwanshi)
+  - **Devansh Sharma** - DevanshSharmaCodes (https://github.com/DevanshSharmaCodes)
   - **Nakshatra Gunjyal** - NGunjyal01 (https://github.com/NGunjyal01)
 
