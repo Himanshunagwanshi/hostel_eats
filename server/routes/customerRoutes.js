@@ -7,7 +7,7 @@ const {customerCheck}=require("../middlewares/customer");
 //Routes for Search Item
 customerRouter.post("/searchItem",searchItem);
 customerRouter.get("/getCanteenDetails",getCanteenDetails);
-customerRouter.post("/searchItemByCanteen",customerCheck,searchItemByCanteen);
+customerRouter.post("/searchItemByCanteen",searchItemByCanteen);
 customerRouter.post("/addCartItem",customerCheck,addItemToCart);
 customerRouter.get("/getCartItems",customerCheck,getItemFromCart);
 customerRouter.post("/removeCartItem",customerCheck,removeItemFromCart);
